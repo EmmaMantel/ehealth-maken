@@ -1,1 +1,62 @@
+# Scrollen mogelijk maken
+scroll = ScrollComponent.wrap psd.contentTypes 
+scroll.scrollHorizontal = false
 
+#schaduwlaag
+schaduw = new Layer
+	y: 163
+	width: 767
+	height: 1171
+	backgroundColor: "rgba(167,167,167,0.5)"
+	
+schaduw.visible = false
+
+# Het menu
+psd.menu.x = -587
+psd.menu.y = 62
+
+psd.menu.states = 
+	flying:
+		x: 0
+		y: 62
+		options: 
+			curve: "spring(100, 20, 0)"
+			
+psd.hamburgerIcoon.onClick (event, layer) ->
+	psd.menu.stateCycle()
+	schaduw.visible = true
+	schaduw.placeBehind(psd.menu)
+
+psd.kruismenu.onClick (event, layer) ->
+	schaduw.visible = false 
+	psd.menu.stateCycle()
+
+# Chat openen
+psd.chat.y = 163
+psd.chat.x = 750
+
+psd.chat.states = 
+	flying:
+		y: 163
+		x: 300
+		options: 
+			curve: "spring(300, 20, 0)"
+
+psd.chat.placeBefore(psd.home)
+
+psd.chatIcoon.onClick (event, layer) ->
+	psd.chat.stateCycle()
+
+# Gesprek openen 
+psd.gesprek.states = 
+	flying:
+		y: 155
+		x: 0
+		options: 
+			curve: "spring(150, 20, 0)"
+
+psd.gesprek.placeBefore(psd.home)
+psd.gesprek.placeBefore(psd.chat)
+
+psd.chatJ.onClick (event, layer) ->
+	psd.gesprek.stateCycle()
