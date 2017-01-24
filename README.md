@@ -26,3 +26,10 @@ De vraag die ik wilde beantwoorden was; “Hoe los ik de homepagina van de BDD t
 
 1: http://isotope.metafizzy.co/faq.html
 2: https://codepen.io/dudleystorey/pen/yqrhw
+
+
+# Aanvulling
+
+<b>Het prototype</b>
+
+Ik heb gewerkt aan een prototype voor de homepagina en de chatfunctie. Daarbij heb ik vooral gelet op de vormgeving en interaties. Voor een link naar het Framer prototype zie: 
