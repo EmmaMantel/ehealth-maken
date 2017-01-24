@@ -32,4 +32,7 @@ De vraag die ik wilde beantwoorden was; “Hoe los ik de homepagina van de BDD t
 
 <b>Het prototype</b>
 
-Ik heb gewerkt aan een prototype voor de homepagina en de chatfunctie. Daarbij heb ik vooral gelet op de vormgeving en interaties. Voor een link naar het Framer prototype zie: 
+Ik heb gewerkt aan een prototype voor de homepagina en de chatfunctie. Daarbij heb ik vooral gelet op de vormgeving en interacties. Voor een link naar het Framer prototype zie: (link kan pas later verschijnen, er was een error met inladen). 
+
+In het prototype is het menu, een scrolfunctie, het openen van de chat en het weergeven van de chat (met de eerste gebruiker) uitgewerkt. 
+
