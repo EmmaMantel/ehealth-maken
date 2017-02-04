@@ -32,8 +32,24 @@ De vraag die ik wilde beantwoorden was; “Hoe los ik de homepagina van de BDD t
 
 <b>Het prototype</b>
 
-Ik heb gewerkt aan een prototype voor de homepagina en de chatfunctie. Daarbij heb ik vooral gelet op de vormgeving en interacties. Voor een link naar het Framer prototype zie: http://share.framerjs.com/daqwcadnz2rn/ 
+Tijdens project eHealth heb ik gewerkt aan een prototype voor de BDD MyHealthDiary app. In het project nam ik de rol aan van Visual Interface Disgner daarom heb ik gelet op een nieuwe vormgeving van de app. Ik heb ook een gedeelte van de app onderzocht en opnieuw ontworpen, namelijk de homepagina en een chatfunctie. Het prototype bestaat uit de homepagina (deze is scrolbaar), een hamburgermenu, een chat en het openen van een gesprek. 
+- Voor een link naar het Framer prototype zie: http://share.framerjs.com/daqwcadnz2rn/  
 
-In het prototype is het menu, een scrolfunctie, het openen van de chat en het weergeven van de chat (met de eerste gebruiker) uitgewerkt. 
+<b>Ontwerpbeslissingen</b>
+1: De homepagina.
+De homepagina bestaat uit cards waarop content wordt weergegeven. In het POC hierboven had 
+
+2: Het hamburgermenu
+3: Chatfunctie
+4: Openen van chat 
+
+<b>Nice to haves/Must haves</b>
+
+Er zijn meerdere onderdelen in het prototype wat toegevoegd of veranderd zou kunnen worden.
+1: De layout. 
+
+<b>Progressie</b>
+
+Tijdens dit project heb ik mij gefoccused op de rol van Visual Interface Designer daarom had ik als doel opgesteld om Framer te leren kennen en daar mee mijn eindopdracht te maken. 
 
 
