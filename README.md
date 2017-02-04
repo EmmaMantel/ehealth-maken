@@ -38,7 +38,7 @@ Tijdens project eHealth heb ik gewerkt aan een prototype voor de BDD MyHealthDia
 <b>Ontwerpbeslissingen</b>
 
 1: De homepagina.
-De homepagina bestaat uit cards waarop content wordt weergegeven. In het POC hierboven had 
+De homepagina bestaat uit cards waarop content wordt weergegeven. In het POC hierboven had ..
 
 2: Het hamburgermenu
 3: Chatfunctie
@@ -47,9 +47,13 @@ De homepagina bestaat uit cards waarop content wordt weergegeven. In het POC hie
 <b>Nice to haves/Must haves</b>
 
 Er zijn meerdere onderdelen in het prototype wat toegevoegd of veranderd zou kunnen worden.
+
 1: De layout. Ik heb in het prototype een Pinterest layout laten zien met twee kolommen. Wat er nog toegevoegd zou moeten worden is dat als het scherm smal is de layout zal veranderen naar een single-column layout. 
+
 2: Het hamburgermenu. Ik had nog een animatie willen toevoegen dat als de gebruiker op het icoon van het hamburgermenu klikt, het icoon in een vloeiende beweging veranderd naar een kruis. 
+
 3: Chatfunctie. In de chatfunctie staat onderaan "Mis je iemand? Voeg iemand toe". Dit had ik toegevoegd met de bedoeling dat de gebruiker meteen naar groepen gaat en iemand kan toevoegen door iemands email in te voeren. Nu was er verwarring ontstaan over de groepen. Het was niet helemaal duidelijk of de begeleider van tevoren een groep maakt met vaste leden of dat je zelf mensen toevoegd in jou groep. Ook zou je daaruit weer kunnen selecteren wie er dan in de chatfunctie verschijnt. Ik had bedacht dat alle leden in de chatfunctie komen en dat je handmatig nog iemand zou kunnen toevoegen. Dit gedeelte was niet helemaal duidelijk.
+
 4: Openen van chat. 
 
 <b>Progressie</b>
