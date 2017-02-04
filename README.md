@@ -32,10 +32,11 @@ De vraag die ik wilde beantwoorden was; “Hoe los ik de homepagina van de BDD t
 
 <b>Het prototype</b>
 
-Tijdens project eHealth heb ik gewerkt aan een prototype voor de BDD MyHealthDiary app. In het project nam ik de rol aan van Visual Interface Disgner daarom heb ik gelet op een nieuwe vormgeving van de app. Ik heb ook een gedeelte van de app onderzocht en opnieuw ontworpen, namelijk de homepagina en een chatfunctie. Het prototype bestaat uit de homepagina (deze is scrolbaar), een hamburgermenu, een chat en het openen van een gesprek. 
+Tijdens project eHealth heb ik gewerkt aan een prototype voor de BDD MyHealthDiary app. In het project nam ik de rol aan van Visual Interface Designer daarom heb ik gelet op een nieuwe vormgeving van de app. Ik heb ook een gedeelte van de app onderzocht en opnieuw ontworpen, namelijk de homepagina en een chatfunctie. Het prototype bestaat uit de homepagina (deze is scrolbaar), een hamburgermenu, een chat en het openen van een gesprek. 
 - Voor een link naar het Framer prototype zie: http://share.framerjs.com/daqwcadnz2rn/  
 
 <b>Ontwerpbeslissingen</b>
+
 1: De homepagina.
 De homepagina bestaat uit cards waarop content wordt weergegeven. In het POC hierboven had 
 
@@ -46,10 +47,14 @@ De homepagina bestaat uit cards waarop content wordt weergegeven. In het POC hie
 <b>Nice to haves/Must haves</b>
 
 Er zijn meerdere onderdelen in het prototype wat toegevoegd of veranderd zou kunnen worden.
-1: De layout. 
+1: De layout. Ik heb in het prototype een Pinterest layout laten zien met twee kolommen. Wat er nog toegevoegd zou moeten worden is dat als het scherm smal is de layout zal veranderen naar een single-column layout. 
+2: Het hamburgermenu. Ik had nog een animatie willen toevoegen dat als de gebruiker op het icoon van het hamburgermenu klikt, het icoon in een vloeiende beweging veranderd naar een kruis. 
+3: Chatfunctie. In de chatfunctie staat onderaan "Mis je iemand? Voeg iemand toe". Dit had ik toegevoegd met de bedoeling dat de gebruiker meteen naar groepen gaat en iemand kan toevoegen door iemands email in te voeren. Nu was er verwarring ontstaan over de groepen. Het was niet helemaal duidelijk of de begeleider van tevoren een groep maakt met vaste leden of dat je zelf mensen toevoegd in jou groep. Ook zou je daaruit weer kunnen selecteren wie er dan in de chatfunctie verschijnt. Ik had bedacht dat alle leden in de chatfunctie komen en dat je handmatig nog iemand zou kunnen toevoegen. Dit gedeelte was niet helemaal duidelijk.
+4: Openen van chat. 
 
 <b>Progressie</b>
 
-Tijdens dit project heb ik mij gefoccused op de rol van Visual Interface Designer daarom had ik als doel opgesteld om Framer te leren kennen en daar mee mijn eindopdracht te maken. 
+Tijdens dit project heb ik mij gefocust op de rol van Visual Interface Designer. Daarom had ik als doel opgesteld om Framer te leren kennen en met deze tool mijn eindopdracht te maken. Ik heb wel in de POC uitgezocht hoe de Pinterest layout gemaakt zou kunnen worden maar ik had besloten om daar zelf niet mee verder te gaan. Ik wilde namelijk mijn doel behalen om beter te worden met Framer. Ik denk namelijk dat Framer mij erg kan gaan helpen als ontwerper. Ik werk mijn ontwerpen eerst uit in Photoshop, dat blijft statisch. Dankzij Framer komen mijn ideeën en interacties veel beter over dan in een statisch afbeelding. Ik verwacht dat ik in aankomende projecten eerder mijn ontwerpen zal uitwerken in Framer dan bijvoorbeeld in Invision omdat er veel meer mogelijkheden zijn voor animaties. 
+
 
 
