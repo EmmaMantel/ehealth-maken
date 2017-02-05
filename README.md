@@ -37,11 +37,12 @@ Tijdens project eHealth heb ik gewerkt aan een prototype voor de BDD MyHealthDia
 
 <b>Ontwerpbeslissingen</b>
 
-1: De homepagina.
-De homepagina bestaat uit cards waarop content wordt weergegeven. In het POC hierboven had ..
+1: De homepagina. De homepagina bestaat uit cards waarop content wordt weergegeven. In het POC hierboven had ..
 
-2: Het hamburgermenu
+2: Het hamburgermenu. 
+
 3: Chatfunctie
+
 4: Openen van chat 
 
 <b>Nice to haves/Must haves</b>
