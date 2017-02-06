@@ -41,9 +41,9 @@ Tijdens project eHealth heb ik gewerkt aan een prototype voor de BDD MyHealthDia
 
 2: Het hamburgermenu. Ik had een klein onderzoekje uitgevoerd naar het wel of niet toevoegen van een hamburgermenu. Er zitten meerdere nadelen aan het gebruiken van een hamburgermenu. Zo staan de opties van de navigatie verborgen en bestaat er een kans dat de gebruiker de opties niet kan vinden. Ik had toch besloten om een hamburgermenu toe te voegen omdat een andere optie het toevoegen van een tapbar was, een menu onderaan het scherm zoals bij IOS. Bij android telefoons is al standaard een menu onderaan toegevoegd. Omdat wij dubbele menu's wilden voorkomen hadden wij gekozen voor een hamburgermenu. 
 
-3: Chatfunctie
+3: Chatfunctie. Als de gebruiker op het chaticoon klikt opens het chatmenu. Hierin kan de gebruiker andere patienten vinden die online of offline zijn (wordt aangegeven met een rood of groen bolletje). Onderaan de chat staat een icoon waarop staat 'mis je nog iemand?'. Als de gebruiker daarop klikt gaat hij naar 'groepen'. Hierin kan hij/zij een ander persoon aan de groep toevoegen. 
 
-4: Openen van chat 
+4: Openen van chat. Als de gebruiker op een andere gebruiker klikt opent een Modal. Dit is een scherm wat bovenop de andere schermen verschijnt. Als de gebruiker dit scherm wegklikt is nog steeds het chatmenu geopent. Dit zorgt voor een betere interactie flow voor de gebruiker. In de chat krijgt de gebruiker een waarschuwing dat de chat wordt gecontroleerd door een woordfilter. Dit woordfilter (zie Rowenna's project) filter negatieve woorden uit de chat. 
 
 <b>Nice to haves/Must haves</b>
 
@@ -55,7 +55,7 @@ Er zijn meerdere onderdelen in het prototype wat toegevoegd of veranderd zou kun
 
 3: Chatfunctie. In de chatfunctie staat onderaan "Mis je iemand? Voeg iemand toe". Dit had ik toegevoegd met de bedoeling dat de gebruiker meteen naar groepen gaat en iemand kan toevoegen door iemands email in te voeren. Nu was er verwarring ontstaan over de groepen. Het was niet helemaal duidelijk of de begeleider van tevoren een groep maakt met vaste leden of dat je zelf mensen toevoegd in jou groep. Ook zou je daaruit weer kunnen selecteren wie er dan in de chatfunctie verschijnt. Ik had bedacht dat alle leden in de chatfunctie komen en dat je handmatig nog iemand zou kunnen toevoegen. Dit gedeelte was niet helemaal duidelijk.
 
-4: Openen van chat. 
+4: Openen van chat. Na de presentaties bleek dat de chatfunctie nog steeds niet gewenst was, zelfs nadat het gereguleerd zou worden. Ookal wordt er een woordfilter op gezet, ookal zijn er waarschuwingen, een chat zou niet zo snel toegevoegd worden. 
 
 <b>Progressie</b>
 
