@@ -37,9 +37,9 @@ Tijdens project eHealth heb ik gewerkt aan een prototype voor de BDD MyHealthDia
 
 <b>Ontwerpbeslissingen</b>
 
-1: De homepagina. De homepagina bestaat uit cards waarop content wordt weergegeven. In het POC hierboven had ..
+1: De homepagina. De homepagina bestaat uit cards waarop content wordt weergegeven. In het POC hierboven had ik onderzocht hoe een Pinterst layout gecodeerd kan worden. De contenttypes (video en afbeelding) verschijnen op cards in de homepagina. Het idee was dat indien de gebruiker een te klein scherm gebruikt voor twee kolommen de layout zal veranderen naar een single-column layout. 
 
-2: Het hamburgermenu. 
+2: Het hamburgermenu. Ik had een klein onderzoekje uitgevoerd naar het wel of niet toevoegen van een hamburgermenu. Er zitten meerdere nadelen aan het gebruiken van een hamburgermenu. Zo staan de opties van de navigatie verborgen en bestaat er een kans dat de gebruiker de opties niet kan vinden. Ik had toch besloten om een hamburgermenu toe te voegen omdat een andere optie het toevoegen van een tapbar was, een menu onderaan het scherm zoals bij IOS. Bij android telefoons is al standaard een menu onderaan toegevoegd. Omdat wij dubbele menu's wilden voorkomen hadden wij gekozen voor een hamburgermenu. 
 
 3: Chatfunctie
 
