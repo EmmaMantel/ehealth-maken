@@ -4,7 +4,7 @@
 
 <b>Inleiding</b>
 
-Om de design challenge van het project op te lossen heb ik samen met mijn team meerdere deelvragen bedacht. Ik ga mij focussen op deelvraag 1; “Hoe kan de app beter aansluiten bij de wensen en doelen van de gebruiker?”. Om dit op te lossen ga ik de homepagina van de app aanpassen. De gebruiker kan op dit moment alleen een foto opsturen van een activiteit. In de nieuwe app kunnen gebruikers meer delen met elkaar zoals positieve quotes, video’s, foto’s, muziek en artikelen. Zo ontstaat er een plek waar patiënten met BDD positieve ervaringen met elkaar kunnen delen, als een social media kanaal. De app is afgeschermd en de content is alleen beschikbaar voor mensen in dezelfde groep. 
+Om de design challenge van het project op te lossen heb ik samen met mijn team meerdere deelvragen bedacht. Ik ga mij focussen op deelvraag 1; “Hoe kan de app beter aansluiten bij de wensen en doelen van de gebruiker?”. Om dit op te lossen ga ik de homepagina van de app aanpassen. De gebruiker kan op dit moment alleen een foto opsturen van een activiteit. In de nieuwe app kunnen gebruikers meer delen met elkaar zoals positieve quotes, video’s, foto’s, muziek en artikelen (update: de gebruiker kan alleen foto's en video's delen). Zo ontstaat er een plek waar patiënten met BDD positieve ervaringen met elkaar kunnen delen, als een social media kanaal. De app is afgeschermd en de content is alleen beschikbaar voor mensen in dezelfde groep. 
 
 De homepagina van de app is op dit moment statisch en niet vormgeven met de stijl die wij voor ogen hebben. Om de homepagina aantrekkelijker te maken wil ik de lay-out veranderen door inspiratie op te doen van Pinterest. Ik wil erachter komen hoe ik de homepagina technisch gezien kan maken. Zo wil ik onderzoeken of ik flexbox het beste kan gebruiken en hoe ik ervoor kan zorgen dat de gebruiker de verschillende soorten content kan inleveren. Op visueel gebied wil ik de homepagina opnieuw vormgeven in photoshop en verder uitwerken in Framer. 
 
@@ -20,7 +20,7 @@ Ten tweede heb ik deskresearch uitgevoerd. Ik zocht op google naar ‘Pinterest 
 
 <b>Conclusie</b>
 
-De vraag die ik wilde beantwoorden was; “Hoe los ik de homepagina van de BDD technisch op?”. Aan de hand van het onderzoek weet ik inmiddels dat er genoeg op het internet te vinden is om de Pinterest lay-out na te maken. De voorbeelden die ik heb gevonden geven duidelijk weer wat ik voor ogen heb. Als ik de eerste versie zou gebruiken dan moeten kosten daarvoor berekend worden. Maar er zijn meerdere gratis mogelijkheden te vinden online. 
+De vraag die ik wilde beantwoorden was; 'Hoe los ik de homepagina van de BDD technisch op?'. Aan de hand van het onderzoek weet ik inmiddels dat er genoeg op het internet te vinden is om de Pinterest lay-out na te maken. De voorbeelden die ik heb gevonden geven duidelijk weer wat ik voor ogen heb. Als ik de eerste versie zou gebruiken dan moeten kosten daarvoor berekend worden. Maar er zijn meerdere gratis mogelijkheden te vinden online. 
 
 <b>Bronnen</b>
 
@@ -55,7 +55,7 @@ Er zijn meerdere onderdelen in het prototype wat toegevoegd of veranderd zou kun
 
 3: Chatfunctie. In de chatfunctie staat onderaan "Mis je iemand? Voeg iemand toe". Dit had ik toegevoegd met de bedoeling dat de gebruiker meteen naar groepen gaat en iemand kan toevoegen door iemands email in te voeren. Nu was er verwarring ontstaan over de groepen. Het was niet helemaal duidelijk of de begeleider van tevoren een groep maakt met vaste leden of dat je zelf mensen toevoegd in jou groep. Ook zou je daaruit weer kunnen selecteren wie er dan in de chatfunctie verschijnt. Ik had bedacht dat alle leden in de chatfunctie komen en dat je handmatig nog iemand zou kunnen toevoegen. Dit gedeelte was niet helemaal duidelijk.
 
-4: Openen van chat. Na de presentaties bleek dat de chatfunctie nog steeds niet gewenst was, zelfs nadat het gereguleerd zou worden. Ookal wordt er een woordfilter op gezet, ookal zijn er waarschuwingen, een chat zou niet zo snel toegevoegd worden. 
+4: Openen van chat. Na de presentaties bleek dat de chatfunctie nog steeds niet gewenst was, zelfs nadat het gereguleerd zou worden. Ookal wordt er een woordfilter op gezet, ookal zijn er waarschuwingen, een chat zou niet zo snel toegevoegd worden. Voor meer uitleg over de chat en het commentaar van het AMC, zie het onderzoeksverslag. 
 
 <b>Progressie</b>
 
