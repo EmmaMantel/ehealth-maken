@@ -43,7 +43,7 @@ Tijdens project eHealth heb ik gewerkt aan een prototype voor de BDD MyHealthDia
 
 3: Chatfunctie. Als de gebruiker op het chaticoon klikt opens het chatmenu. Hierin kan de gebruiker andere patiënten vinden die online of offline zijn (wordt aangegeven met een rood of groen bolletje). Onderaan de chat staat een icoon waarop staat 'mis je nog iemand?'. Als de gebruiker daarop klikt gaat hij naar 'groepen'. Hierin kan hij/zij een ander persoon aan de groep toevoegen. 
 
-4: Openen van chat. Als de gebruiker op een andere gebruiker klikt opent een Modal. Dit is een scherm wat bovenop de andere schermen verschijnt. Als de gebruiker dit scherm weg klikt is nog steeds het chatmenu geopend. Dit zorgt voor een betere interactie flow voor de gebruiker. In de chat krijgt de gebruiker een waarschuwing dat de chat wordt gecontroleerd door een woordfilter. Dit woordfilter (zie Rowenna's project) filter negatieve woorden uit de chat. 
+4: Openen van chat. Als de gebruiker op een andere gebruiker klikt opent een Modal. Dit is een scherm wat bovenop de andere schermen verschijnt. Als de gebruiker dit scherm weg klikt is nog steeds het chatmenu geopend. Dit zorgt voor een betere interactie flow voor de gebruiker. In de chat krijgt de gebruiker een waarschuwing dat de chat wordt gecontroleerd door een woordfilter. Dit woordfilter (zie Rowenna's project) filtert negatieve woorden uit de chat. 
 
 <b>Nice to haves/Must haves</b>
 
